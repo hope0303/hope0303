@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="hope0303 — Vehicle Engineering, Python and Automation" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="hope0303 — Vehicle Engineering, Python and Automation" width="100%" />
 </div>
 
 <br />
